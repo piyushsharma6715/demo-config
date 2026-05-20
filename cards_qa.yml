@@ -1,0 +1,21 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+#
+#
+##  Not required the above properties due to the cloud side were required only in the local setup to enable the
+##   current profile
+
+build:
+  version: "2.0"
+
+
+cards:
+  message: "Welcome to the Demo Bank - QA Environment"
+  contactDetails:
+    name: "Triple H"
+    email: "sledgehammer@iris.com"
+  onCallSupport:
+    - (438) 349-5464
+    - (340) 349-3453

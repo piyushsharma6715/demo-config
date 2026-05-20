@@ -1,0 +1,14 @@
+
+
+build:
+  version: "3.0"
+
+
+loans:
+  message: "Welcome to the Demo Bank - Dev env"
+  contactDetails:
+    name: "Chris Evans"
+    email: "captainamerica@iris.com"
+  onCallSupport:
+    - (345) 348-0938
+    - (393) 349-9343

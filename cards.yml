@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to the Demo Bank - DEV Mode"
+  contactDetails:
+    name: "Piyush Sharma"
+    email: "piyush.sharma02@iris.com"
+  onCallSupport:
+    - (438) 349-3432
+    - (340) 349-3293

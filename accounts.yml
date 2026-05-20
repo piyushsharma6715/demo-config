@@ -1,0 +1,11 @@
+accounts:
+  message: "Welcome to my Demo Bank"
+  contactDetails:
+    name: "Piyush Sharma"
+    email: "piyush.sharma02@irissoftware.com"
+  onCallSupport:
+    - (911) 383-3938
+    - (932) 938-4893
+
+build:
+  version: "3.0"

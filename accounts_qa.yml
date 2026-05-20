@@ -1,0 +1,22 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+#
+#  Not required the above properties due to the cloud side were required only in the local setup to enable the
+#   current profile
+
+
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to my Demo Bank - QA Environment"
+  contactDetails:
+    name: "Rishabh Sharma"
+    email: "rish.sharma@irissoftware.com"
+  onCallSupport:
+    - (323) 383-8349
+    - (322) 938-2343

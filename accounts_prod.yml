@@ -1,0 +1,20 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+#
+#  Not required the above properties due to the cloud side were required only in the local setup to enable the
+#   current profile
+
+build:
+  version: "1.0"
+
+
+accounts:
+  message: "Welcome to my Demo Bank - Prod Environment"
+  contactDetails:
+    name: "Virat Kohli"
+    email: "virat.sh18@irissoftware.com"
+  onCallSupport:
+    - (344) 383-2393
+    - (432) 938-4383

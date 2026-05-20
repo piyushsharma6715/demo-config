@@ -1,0 +1,20 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+#
+##  Not required the above properties due to the cloud side were required only in the local setup to enable the
+##   current profile
+
+build:
+  version: "2.0"
+
+
+loans:
+  message: "Welcome to the Demo Bank - QA env"
+  contactDetails:
+    name: "Groot"
+    email: "groot@iris.com"
+  onCallSupport:
+    - (345) 348-3453
+    - (393) 349-3445
